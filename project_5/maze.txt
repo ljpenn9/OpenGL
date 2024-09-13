@@ -1,0 +1,12 @@
+10 10
+0 8
+bbbbbbbb b
+b   rrrr b
+b     rr b
+b wwwwww b
+b  rr rr b
+bwwrr    b
+b      rrb
+br rrrrrrb
+br      rb
+bbbbbb bbb

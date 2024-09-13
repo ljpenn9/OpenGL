@@ -1,0 +1,10 @@
+8 6
+0 3
+bbb bb
+br   b
+b   wb
+bb wwb
+b    b
+b r wb
+b r  b
+bbb bb

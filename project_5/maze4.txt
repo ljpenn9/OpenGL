@@ -1,0 +1,13 @@
+11 11
+5 5
+bbbbbbbbbbb
+br       rb
+b r     r b
+b  r   r  b
+b   r r   b
+b         b
+b   r r   b
+b  r   r  b
+b r     r b
+br       rb
+bbbbbbbbbbb
